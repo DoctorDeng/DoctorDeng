@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoctorDeng, is an ordinary Java developer.
+- 👋 Hi, I’m @DoctorDeng, a Java developer.
 - 👀 I'm interested in reading books and single player games
 - 🌱 I’m currently learning Database
 - 📫 Contact me: vip.doctordeng@gmail.com
